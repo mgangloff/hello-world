@@ -1,6 +1,3 @@
-# hello-world
-Test repository - This repository is created to conduct several tests for VESPA
-This change is made by Michel Gangloff on Thursday October 27th
 # EXPLORING EXOPLANETS
 ![IMAGE00](IMG/image2016-10-20 2-48-53.png)
 
