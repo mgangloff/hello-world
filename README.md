@@ -2,6 +2,7 @@
 Test repository - This repository is created to conduct several tests for VESPA
 This change is made by Michel Gangloff on Thursday October 27th
 # EXPLORING EXOPLANETS
+![IMAGE00](IMG/image2016-10-20 2-48-53.png)
 http://exoplanet.eu
 ![IMAGE01](IMG/Capture d’écran 2016-10-20 à 02.50.49.png)
 ![IMAGE02](IMG/Capture d’écran 2016-10-20 à 02.59.09.png)
