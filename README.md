@@ -18,6 +18,7 @@ This change is made by Michel Gangloff on Thursday October 27th
 * Next step : display the catalog in the Table Browser of TopCat
 
 ![IMAGE04](IMG/image2016-10-20 3-5-32.png)
+* Open the _Sky plotting window_
 
 ![IMAGE05](IMG/image2016-10-20 3-6-52.png)
 ![IMAGE06](IMG/image2016-10-20 3-8-17.png)
