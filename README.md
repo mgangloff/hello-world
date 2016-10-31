@@ -14,7 +14,7 @@ This change is made by Michel Gangloff on Thursday October 27th
 * Next step: send the catalog of exoplanets to the SAMP HUB
 
 ![IMAGE03](IMG/Capture d’écran 2016-10-20 à 03.00.35.png)
-* Click on _OUI_ or _Yes_ in the security pop-up window
+* Click on _Oui_ (or _Yes_) in the security pop-up window
 * Next step : display the catalog in the Table Browser of TopCat
 
 ![IMAGE04](IMG/image2016-10-20 3-5-32.png)
