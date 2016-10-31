@@ -8,7 +8,7 @@ This change is made by Michel Gangloff on Thursday October 27th
 * Prepare a query on the VESPA portal ; select _exoplanet_ as target_class 
 
 ![IMAGE01](IMG/Capture d’écran 2016-10-20 à 02.50.49.png)
-* Start Topcat
+* Next step: Start Topcat
 
 ![IMAGE02](IMG/Capture d’écran 2016-10-20 à 02.59.09.png)
 * Next step: send the catalog of exoplanet to the SAMP HUB
