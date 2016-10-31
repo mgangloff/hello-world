@@ -7,7 +7,7 @@ This change is made by Michel Gangloff on Thursday October 27th
 ![IMAGE03](IMG/Capture d’écran 2016-10-20 à 03.00.35.png)
 ![IMAGE04](IMG/image2016-10-20 3-5-32.png)
 ![IMAGE05](IMG/image2016-10-20 3-6-52.png)
-![IMAGE06](IMG/image2016-10-20 3-6-52.png)
+![IMAGE06](IMG/image2016-10-20 3-8-17.png)
 http://exoplanet.eu
 ![Kepler's](IMG/image2016-10-20 3-9-7.png)
 
