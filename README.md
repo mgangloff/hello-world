@@ -11,10 +11,14 @@ This change is made by Michel Gangloff on Thursday October 27th
 * Next step: Start Topcat
 
 ![IMAGE02](IMG/Capture d’écran 2016-10-20 à 02.59.09.png)
-* Next step: send the catalog of exoplanet to the SAMP HUB
+* Next step: send the catalog of exoplanets to the SAMP HUB
 
 ![IMAGE03](IMG/Capture d’écran 2016-10-20 à 03.00.35.png)
+* Click on _OUI_ or _Yes_ in the security pop-up window
+
 ![IMAGE04](IMG/image2016-10-20 3-5-32.png)
+* Next step : display the catalog in the Table Browser of TopCat
+
 ![IMAGE05](IMG/image2016-10-20 3-6-52.png)
 ![IMAGE06](IMG/image2016-10-20 3-8-17.png)
 ![IMAGE07](IMG/image2016-10-20 3-9-46.png)
