@@ -5,7 +5,8 @@ This change is made by Michel Gangloff on Thursday October 27th
 ![IMAGE00](IMG/image2016-10-20 2-48-53.png)
 
      http://exoplanet.eu
-* Prepare a query on the VESPA portal ; select _exoplanet_ as target_class     
+* Prepare a query on the VESPA portal ; select _exoplanet_ as target_class 
+
 ![IMAGE01](IMG/Capture d’écran 2016-10-20 à 02.50.49.png)
 ![IMAGE02](IMG/Capture d’écran 2016-10-20 à 02.59.09.png)
 ![IMAGE03](IMG/Capture d’écran 2016-10-20 à 03.00.35.png)
