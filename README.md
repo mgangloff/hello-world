@@ -21,7 +21,7 @@ This change is made by Michel Gangloff on Thursday October 27th
 * Next step : open the _Sky plotting window_
 
 ![IMAGE05](IMG/image2016-10-20 3-6-52.png)
-* Plot Kepler 359-B
+* Plot Kepler 359-B and check third Kepler's law
 
 ![IMAGE06](IMG/image2016-10-20 3-8-17.png)
 ![IMAGE07](IMG/image2016-10-20 3-9-46.png)
